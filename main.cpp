@@ -3,7 +3,7 @@
 
 int main() {
     int num1, num2;
-
+/*Ğ¿Ğ¿Ğ¿*/
     std::cout << "Chisla cherez probel: ";
     std::cin >> num1 >> num2;
 
@@ -12,6 +12,6 @@ int main() {
     std::cout << "1 chislo: " << num1 << std::endl;
     std::cout << "2 chislo: " << num2 << std::endl;
     std::cout << "razn: " << razn << std::endl;
-    /*ààààà*/
+    /*Ã Ã Ã Ã Ã */
     return 0;
 }
